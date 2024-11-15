@@ -16,8 +16,8 @@ As a movie enthusiast, I wanted to create a system that provides personalized mo
 
 ## Demo
 
-You can watch the demo of my Movie Recommender System [here](https://drive.google.com/file/d/1H7jI3e23rteQ0KZmtIqNAwlBiGFKiUDQ/view)
-
+Check out the live link of the Movie Recommender System:  
+[https://screensense-ml.onrender.com](https://screensense-ml.onrender.com)
 ## Dataset
 
 For this project, I used the TMDB dataset, which you can find on Kaggle:
